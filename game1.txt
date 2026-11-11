@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-mate ima 0 pobjeda i 1 poraza!
-ivo ima 1 pobjeda i 0 poraza!
-
-. . x
-. X .
-O O O
-=======
-mate ima 1 pobjeda i 0 poraza!
-ivo ima 0 pobjeda i 1 poraza!
+mate ima 2 pobjeda i 0 poraza!
+ivo ima 0 pobjeda i 2 poraza!
 
 . . x
 . X .
 X O O
->>>>>>> main

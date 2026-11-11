@@ -1,6 +1,7 @@
 mate ima x pobjeda i y poraza!
 ivo ima x pobjeda i y poraza!
 
-x . .
+x . X
 . . .
-. . X
+. . O
+

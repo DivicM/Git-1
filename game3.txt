@@ -1,7 +1,7 @@
-mate ima x pobjeda i y poraza!
-ivo ima x pobjeda i y poraza!
+mate ima 3 pobjeda i 0 poraza!
+ivo ima 0 pobjeda i 3 poraza!
 
 x O X
-. . .
+. x .
 x . O
 

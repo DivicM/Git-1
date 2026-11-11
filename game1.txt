@@ -1,5 +1,5 @@
-mate ima 1 pobjeda i 0 poraza!
-ivo ima 0 pobjeda i 1 poraza!
+mate ima 3 pobjeda i 0 poraza!
+ivo ima 0 pobjeda i 3 poraza!
 
 . . x
 . X .

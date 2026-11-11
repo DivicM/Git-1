@@ -3,4 +3,5 @@ ivo ima x pobjeda i y poraza!
 
 x O X
 . . .
-. . O
+x . O
+
